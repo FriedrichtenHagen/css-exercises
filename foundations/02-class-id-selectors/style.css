@@ -1,0 +1,22 @@
+.redbackground{
+    background-color: #c85656;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+.small{
+    font-size: small;
+}
+
+.large{
+    font-size: 24px;
+}
+
+#numbertwo {
+    color: rgb(6, 6, 208);
+    size: 36px;
+}
+
+#numberfour {
+    background-color: #b6ecb6;
+    font-weight: bold;
+    font-size: 24px;
+}
