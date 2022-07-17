@@ -57,33 +57,29 @@ input {
   justify-content: space-between;
 }
 .content{
-  display: flex;
+ /* display: flex;
   flex-direction: column;
-  align-content: center;
-  justify-content: center;
+ align-content: center;
+ justify-content: center;
+*/
 }
 .footer{
   display: flex;
   justify-content: space-between;
-  align-items: flex-end;
   background-color: lightgray;
-  color: black;
-  
+  color: black; 
 }
 .left-links{
   display: flex;
   padding-left: 0px;
   margin: 5px;
- 
 }
 .right-links{
   display: flex;
   padding-right: 0px;
   margin: 5px;
-
 }
 .logo{
   display: flex;
-  align-content: center;
-  justify-content: center;
+  justify-content: center; 
 }
