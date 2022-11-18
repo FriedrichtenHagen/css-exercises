@@ -28,7 +28,11 @@
   grid-template-columns: 1fr 7fr;
   align-items: center;
 }
-
+.menu>ul{
+  display: grid;
+  grid-template-rows: 1fr;
+  grid-template-columns: 1fr 1fr 1fr 1fr;
+}
 .menu ul,
 .menu li {
   font-size: 16px;
